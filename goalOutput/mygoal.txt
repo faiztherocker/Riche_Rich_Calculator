@@ -1,0 +1,1 @@
+[{GoalName: mygoal, MonthlyContribution: 4001.0, NoOfYears :5, RiskLevel: 1, FutureValue: 304200.62}]
